@@ -17,6 +17,6 @@ jQuery(function($){
   }); 
   setTimeout(function() {   //calls click event after a certain time
     $(location).attr('href','https://www.example.com')
- }, 5000);
+ }, 3000);
 
 });
